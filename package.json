@@ -1,0 +1,30 @@
+{
+  "name": "retro-lego",
+  "displayName": "Retro Lego Dark Theme",
+  "publisher": "DoyoonLee",
+  "description": "Retro Lego Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "repository": {
+    "url": "https://github.com/doyoonear/colortheme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Lego",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retro Lego-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "fe51658e-a9d4-414c-974a-75de85e429d9",
+    "publisherDisplayName": "Doyoon Lee",
+    "publisherId": "bdf63fe1-937a-429f-b6f8-8db4fd828deb"
+  }
+}
