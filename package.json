@@ -3,11 +3,13 @@
   "displayName": "Retro Lego Dark Theme",
   "publisher": "DoyoonLee",
   "description": "Retro Lego Dark Theme",
-  "version": "0.0.1",
+  "icon": "images/blocks.png",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.52.0"
   },
   "repository": {
+    "type": "git",
     "url": "https://github.com/doyoonear/colortheme.git"
   },
   "categories": [
