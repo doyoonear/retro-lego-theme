@@ -2,7 +2,7 @@
 
 ## RETRO LEGO Dark Theme
 
-A Retro Theme inspired by color blocks of LEGO. mixed with some retro mood.
+A Retro Theme inspired by color blocks of LEGO. Retro mood dark color theme.
 
 ## Install using Command Palette
 
