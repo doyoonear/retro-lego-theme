@@ -1,6 +1,8 @@
 ## RETRO LEGO Dark Theme
 
 A Retro Theme inspired by color blocks of LEGO. Retro mood dark color theme.
+Check it at market place https://marketplace.visualstudio.com/items?itemName=DoyoonLee.retro-lego
+
 
 ## Install using Command Palette
 
